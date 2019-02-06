@@ -1,0 +1,15 @@
+Dette er en text fil med noget indhold:
+Her står linje 1 og
+Her er linje 2
+Nu kommer en tom linje
+
+Og dette er en række tal og special tegn:
+1
+2
+3
+4321
+!"#¤
+%&/(
+)=?`
+
+Dette er den sidste linje i filen.

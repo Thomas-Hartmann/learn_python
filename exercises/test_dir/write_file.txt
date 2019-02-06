@@ -1,0 +1,4 @@
+Hello from the write method 
+This is the second line
+Hello from the append method 
+This is the second line
